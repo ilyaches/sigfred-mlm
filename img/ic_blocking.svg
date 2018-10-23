@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-block</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-New" transform="translate(-1028.000000, -1183.000000)">
+            <g id="about" transform="translate(150.000000, 826.000000)">
+                <g id="icon-problems" transform="translate(59.000000, 357.000000)">
+                    <g id="icon-block" transform="translate(819.000000, 0.000000)">
+                        <rect id="ic-bg" fill="#FFFFFF" opacity="0.01" x="0" y="0" width="100" height="100"></rect>
+                        <circle id="Oval-2" fill="#DDDDF3" opacity="0.665364583" cx="50" cy="50" r="40"></circle>
+                        <g id="Group-2" transform="translate(27.000000, 42.000000)">
+                            <rect id="Rectangle-5" fill="#D8232A" x="0" y="0" width="48" height="17.6" rx="2.56"></rect>
+                            <text id="WWW" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="12.8" font-weight="bold" letter-spacing="1.6" fill="#FFFFFF">
+                                <tspan x="4.2752" y="12.8">WWW</tspan>
+                            </text>
+                        </g>
+                        <circle id="Oval-3" stroke="#55589A" stroke-width="3.2" cx="50.5" cy="49.5" r="31.9"></circle>
+                        <rect id="Rectangle-4" fill="#55589A" transform="translate(50.000000, 49.500000) rotate(-45.000000) translate(-50.000000, -49.500000) " x="19" y="48" width="62" height="3"></rect>
+                        <circle id="Oval-2" fill="#55589A" cx="18" cy="84" r="3"></circle>
+                        <circle id="Oval-2" fill="#55589A" cx="94.5" cy="58.5" r="1.5"></circle>
+                        <circle id="Oval-2" fill="#55589A" cx="13.5" cy="23.5" r="1.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

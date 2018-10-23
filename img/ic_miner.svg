@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon mine</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-New" transform="translate(-311.000000, -5127.000000)">
+            <g id="types" transform="translate(211.000000, 4823.000000)">
+                <g id="miner" transform="translate(0.000000, 264.000000)">
+                    <g id="icon-mine" transform="translate(100.000000, 40.000000)">
+                        <g id="Group">
+                            <rect id="ic-bg" fill="#FFFFFF" opacity="0.01" x="0" y="0" width="100" height="100"></rect>
+                            <circle id="Oval-4" fill="#DDDDF3" opacity="0.67" cx="50" cy="50" r="40"></circle>
+                            <rect id="Rectangle-3" fill="#55589A" x="34" y="82" width="33" height="2"></rect>
+                            <rect id="Rectangle-21" fill="#55589A" x="45" y="72" width="11" height="11"></rect>
+                            <rect id="Rectangle-2" fill="#55589A" x="14" y="22" width="73" height="55.0345838" rx="2.304"></rect>
+                            <rect id="Rectangle-16" fill="#FFFFFF" x="17" y="25" width="66" height="41"></rect>
+                        </g>
+                        <circle id="Oval-2" fill="#55589A" cx="5" cy="36" r="3"></circle>
+                        <circle id="Oval-2" fill="#55589A" cx="83.5" cy="86.5" r="1.5"></circle>
+                        <circle id="Oval-2" fill="#55589A" cx="62.5" cy="6.5" r="1.5"></circle>
+                        <path d="M50.6036485,75.2922003 L50.577381,75.2922003 C49.8508908,75.2922003 49.2619048,75.879765 49.2619048,76.6045018 C49.2619048,77.3292387 49.8508908,77.9168034 50.577381,77.9168034 C51.3038711,77.9168034 51.8927338,77.3292387 51.8927338,76.6045018 C51.8927338,75.879765 51.3037478,75.2922003 50.5772576,75.2922003 L50.6036485,75.2922003 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <g id="pick-hammer-outline" transform="translate(34.000000, 30.000000)" fill-rule="nonzero" fill="#D8232A">
+                            <path d="M4.03613066,30.6171202 C4.02982544,30.6225403 3.95721148,30.6949124 3.81828877,30.8342367 C3.7786906,30.8491419 3.74002782,30.8674869 3.70427514,30.8916688 C2.9350729,31.4005323 1.84856565,31.2910881 1.19244165,30.6333805 C0.527171617,29.9663962 0.417731007,28.9098947 0.932715074,28.1213752 C0.955684091,28.0858319 0.972521108,28.0485166 0.984265447,28.0086997 L19.1069622,9.85499303 L20.5260525,11.2780805 L21.9004519,12.6557226 C12.2858917,22.3313208 4.45466565,30.196229 4.03613066,30.6171202 Z" id="Shape"></path>
+                            <path d="M31.1518731,23.5897208 L23.1449361,12.3296831 C23.1268519,12.304563 23.1065851,12.2810064 23.0847594,12.2591176 L19.5025281,8.66642885 C19.4626182,8.62682047 19.4175116,8.59315335 19.3683517,8.5674079 L14.1312079,5.79680155 L13.0470911,4.22622495 L14.2000111,0.492926442 L15.539905,0.761325349 L25.8008196,9.48434195 L31.4290603,23.4780877 L31.1518731,23.5897208 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

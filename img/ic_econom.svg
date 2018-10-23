@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon econom</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-New" transform="translate(-671.000000, -2591.000000)">
+            <g id="about" transform="translate(150.000000, 826.000000)">
+                <g id="icon-benefits" transform="translate(60.000000, 1765.000000)">
+                    <g id="icon-econom" transform="translate(461.000000, 0.000000)">
+                        <rect id="ic-bg" fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
+                        <circle id="Oval-2" fill="#DDDDF3" opacity="0.665364583" cx="50" cy="50" r="40"></circle>
+                        <path d="M83.1380947,52.2539696 C78.8902953,52.5145433 73.3013705,56.7281148 67.9109972,59.1513115 C61.3036435,62.1205386 51.0198774,59.7333724 51.0186741,59.7333724 C52.6052813,58.9944496 59.0519889,57.4702225 60.3503955,56.905082 C67.251766,53.8900703 66.6661393,47.6112178 63.3794095,47.6639696 C59.0371476,47.7326464 56.4876657,48.7904684 47.8235989,49.9631499 C41.2559554,50.8493794 33.4885794,50.5253044 29.7628301,51.937459 C24.5034206,53.9312763 14.5,68 14.5,68 C16.6352957,71.5936079 18.3019623,74.0936079 19.5,75.5 C20.8575179,77.0936079 23.0241845,79.0936079 26,81.5 C26,81.5 37.2379944,72.0185597 41.1827521,72.0185597 C50.1723231,72.0185597 50.5371365,71.8991218 58.8829192,71.4484426 C62.4321783,71.2599297 63.1730362,71.1150117 65.205883,70.435808 C76.0245348,66.8044965 87.6432089,57.1346019 87.8564011,55.9714754 C88.3505738,53.2771546 85.3821281,52.1194028 83.1380947,52.2539696 Z" id="Shape" fill="#55589A" fill-rule="nonzero"></path>
+                        <circle id="Oval-10" fill="#D8232A" cx="49.6" cy="31.6" r="13.6"></circle>
+                        <text id="$" transform="translate(48.800000, 31.300000) rotate(-20.000000) translate(-48.800000, -31.300000) " font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="19.2" font-weight="bold" letter-spacing="0.120000005" fill="#FFFFFF">
+                            <tspan x="43.4024" y="38.8">$</tspan>
+                        </text>
+                        <circle id="Oval-2" fill="#55589A" cx="82" cy="15" r="3"></circle>
+                        <circle id="Oval-2" fill="#55589A" cx="77.5" cy="87.5" r="1.5"></circle>
+                        <circle id="Oval-2" fill="#55589A" cx="15.5" cy="81.5" r="1.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon invest</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-New" transform="translate(-669.000000, -5134.000000)">
+            <g id="types" transform="translate(211.000000, 4823.000000)">
+                <g id="miner-copy" transform="translate(358.000000, 264.000000)">
+                    <g id="icon-invest" transform="translate(100.000000, 47.000000)">
+                        <rect id="ic-bg" fill="#FFFFFF" opacity="0.01" x="0" y="0" width="100" height="100"></rect>
+                        <circle id="Oval-4" fill="#DDDDF3" opacity="0.67" cx="50" cy="50" r="40"></circle>
+                        <circle id="Oval-2" fill="#D8232A" cx="31" cy="21" r="13"></circle>
+                        <rect id="Rectangle-9" fill="#55589A" x="16" y="59" width="16" height="22" rx="2"></rect>
+                        <rect id="Rectangle-9-Copy" fill="#55589A" x="40" y="45" width="16" height="36" rx="2"></rect>
+                        <rect id="Rectangle-9-Copy-2" fill="#55589A" x="64" y="35" width="16" height="46" rx="2"></rect>
+                        <circle id="Oval-2" fill="#55589A" cx="7" cy="39" r="3"></circle>
+                        <circle id="Oval-2" fill="#55589A" cx="91.5" cy="22.5" r="1.5"></circle>
+                        <circle id="Oval-2" fill="#55589A" cx="52.5" cy="3.5" r="1.5"></circle>
+                        <polygon id="Rectangle-10" fill="#D8232A" transform="translate(42.467622, 38.549038) rotate(-30.000000) translate(-42.467622, -38.549038) " points="8.60640646 36.2631397 76.4628129 35.6028857 76.3288383 40.8349365 8.47243186 41.4951905"></polygon>
+                        <polygon id="Rectangle-13" fill="#D8232A" transform="translate(72.715699, 19.985462) rotate(17.000000) translate(-72.715699, -19.985462) " points="64.048301 15.5673706 81.383096 11.0822409 78.6622579 28.8886831"></polygon>
+                        <text id="$" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="17.28" font-weight="400" letter-spacing="0.108000004" fill="#FFFFFF">
+                            <tspan x="26.14216" y="27">$</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

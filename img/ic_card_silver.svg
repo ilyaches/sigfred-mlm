@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="74px" viewBox="0 0 75 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 33</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="29.0677083%" y1="0%" x2="72.3372396%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F5F5F5" offset="0%"></stop>
+            <stop stop-color="#E7E7E7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Partnership" transform="translate(-415.000000, -3875.000000)" fill="url(#linearGradient-1)">
+            <g id="silver" transform="translate(352.000000, 3852.000000)">
+                <path d="M83.9928846,23 C83.9928846,23 75.0667375,35.2077641 69.9326082,48.0765896 C64.8500041,60.9672885 63,75.9286653 63,75.9286653 C63,75.9286653 75.5316922,84.9186153 88.5774106,89.9944496 C101.621902,95.0714989 116.95559,97 116.95559,97 C116.95559,97 125.906273,84.7278311 131.040402,71.8577903 C136.124233,58.9670914 138,43.942525 138,43.942525 C138,43.942525 125.441318,35.0169798 112.396827,29.9399304 C99.352335,24.8640962 83.9928846,23 83.9928846,23" id="Fill-33"></path>
+            </g>
+        </g>
+    </g>
+</svg>

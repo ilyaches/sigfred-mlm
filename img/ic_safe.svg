@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon safe</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-New" transform="translate(-311.000000, -2591.000000)">
+            <g id="about" transform="translate(150.000000, 826.000000)">
+                <g id="icon-benefits" transform="translate(60.000000, 1765.000000)">
+                    <g id="icon-safe" transform="translate(101.000000, 0.000000)">
+                        <rect id="ic-bg" fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
+                        <circle id="Oval-2" fill="#DDDDF3" opacity="0.665364583" cx="50" cy="50" r="40"></circle>
+                        <circle id="Oval-2" fill="#55589A" cx="3" cy="38" r="3"></circle>
+                        <circle id="Oval-2" fill="#55589A" cx="97.5" cy="51.5" r="1.5"></circle>
+                        <circle id="Oval-2" fill="#55589A" cx="33.5" cy="93.5" r="1.5"></circle>
+                        <g id="icon-sec" transform="translate(22.000000, 16.000000)" fill-rule="nonzero">
+                            <path d="M57.6618,10.9358908 C45.7866,10.9358908 36.689,7.52359195 28.996,0 C21.3038,7.52359195 12.2066,10.9358908 0.3324,10.9358908 C0.3324,30.5288506 -3.6986,58.5956322 28.9958,69.9941667 C61.6926,58.5958333 57.6618,30.5290517 57.6618,10.9358908 Z" id="Shape" stroke="#55589A" stroke-width="5"></path>
+                            <path d="M40,41.055 L40,43.513 C40,45.438 35.11225,47 29.5,47 C23.8888,47 19,45.438 19,43.513 L19,41.055 C21.5389,42.793 26.35525,43.311 29.5,43.311 C32.6563,43.311 37.4674,42.788 40,41.055 Z M29.5,37.646 C26.3437,37.646 21.5326,37.123 19,35.39 L19,37.824 C19,39.75 23.8888,41.311 29.5,41.311 C35.11225,41.311 40,39.749 40,37.824 L40,35.39 C37.4611,37.128 32.64475,37.646 29.5,37.646 Z M29.5,23 C23.8888,23 19,24.562 19,26.488 C19,28.414 23.8888,29.975 29.5,29.975 C35.11225,29.975 40,28.413 40,26.488 C40,24.562 35.11225,23 29.5,23 Z M29.5,31.975 C26.3437,31.975 21.5326,31.452 19,29.719 L19,32.159 C19,34.085 23.8888,35.646 29.5,35.646 C35.11225,35.646 40,34.084 40,32.159 L40,29.719 C37.4611,31.457 32.64475,31.975 29.5,31.975 Z" id="Shape" fill="#D8232A"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

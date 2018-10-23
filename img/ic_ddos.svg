@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon ddos</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-New" transform="translate(-310.000000, -1183.000000)">
+            <g id="about" transform="translate(150.000000, 826.000000)">
+                <g id="icon-problems" transform="translate(59.000000, 357.000000)">
+                    <g id="icon-ddos" transform="translate(101.000000, 0.000000)">
+                        <rect id="ic-bg" fill="#FFFFFF" opacity="0.01" x="0" y="0" width="100" height="100"></rect>
+                        <circle id="Oval-2" fill="#DDDDF3" opacity="0.665364583" cx="50" cy="50" r="40"></circle>
+                        <circle id="Oval-2" fill="#55589A" cx="6" cy="32" r="3"></circle>
+                        <circle id="Oval-2" fill="#55589A" cx="63.5" cy="94.5" r="1.5"></circle>
+                        <circle id="Oval-2" fill="#55589A" cx="62.5" cy="5.5" r="1.5"></circle>
+                        <g transform="translate(11.000000, 7.000000)">
+                            <path d="M66.96416,31.43456 C67.25,31.2527063 57.73944,23.67688 57.41872,23.67688 C57.098,23.67688 42.22416,38.87936 42.22416,38.87936 C42.22416,38.87936 56.51448,38.87936 57.73944,38.87936 C58.96704,38.87936 59.41056,38.78168 60.14712,38.03984 C60.88632,37.30064 66.67832,31.6164137 66.96416,31.43456 Z" id="Shape" fill="#55589A" fill-rule="nonzero"></path>
+                            <path d="M49.83,14.6204 C50.71704,13.736 49.9366352,13.8949739 51.37176,15.31736 C52.8068848,16.7397461 58.2253418,24.0415039 57.9777832,23.9333496 C57.7302246,23.8251953 42.3852,40.0404 42.3852,40.0404 C42.3852,40.0404 42.3852,24.74744 42.3852,23.52248 C42.3852,22.29752 42.48288,21.854 43.22472,21.1148 C43.96392,20.37824 48.94296,15.50744 49.83,14.6204 Z" id="Shape" fill="#55589A" fill-rule="nonzero"></path>
+                            <path d="M6.91944,53.6792 C1.2144,59.38688 -1.48951172,78.5491602 1.27166016,81.1214844 C4.03283203,83.6938086 21.87768,80.05016 27.58272,74.34512 C30.03792,71.88728 43.42536,58.50512 45.88056,56.04992 C51.5856,50.34488 51.5856,41.09168 45.88056,35.38136 C40.17288,29.67368 30.92232,29.67632 25.21464,35.38136 C22.75944,37.84184 9.37464,51.224 6.91944,53.6792 Z" id="Shape" stroke="#55589A" fill="#55589A" fill-rule="nonzero"></path>
+                            <text id="DDoS" transform="translate(23.801214, 56.881214) rotate(-45.000000) translate(-23.801214, -56.881214) " font-family="DINAlternate-Bold, DIN Alternate" font-size="16" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="5.1332455" y="62.3812143">DDoS</tspan>
+                            </text>
+                            <path d="M61.7626331,7.53818156 C62.2119796,7.5161236 68.8116429,9.40174168 81.5616229,13.1950358 C69.4498349,16.639597 62.4149495,18.3256952 60.4569667,18.2533304 C57.5199924,18.1447833 56.2681782,16.7005181 55.8334251,12.8264566 C55.6111738,10.8459876 56.5405733,8.7563593 58.5806525,7.89173495 C59.2010179,7.62881232 61.0886132,7.57126851 61.7626331,7.53818156 Z" id="Rectangle-12" fill="#D8232A" transform="translate(68.681421, 12.896777) rotate(-45.000000) translate(-68.681421, -12.896777) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
